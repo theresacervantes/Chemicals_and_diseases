@@ -2,7 +2,7 @@
 Can chemicals predict diseases?
 ----
 
-![GitHub Logo](/../images/README_image.jpg)
+![GitHub Logo](/images/README_image.jpg)
 
 This project attempts to answer that question based on [CrowdFlower](https://www.crowdflower.com/data-for-everyone/) and PubMed data. It is my final project for GalvanizeU's Natural Language Processing course.
 
